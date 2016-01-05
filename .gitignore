@@ -1,0 +1,6 @@
+*.pyc
+.gitignore~
+.idea/*
+fullstackenv/*
+__pycache__/*
+
